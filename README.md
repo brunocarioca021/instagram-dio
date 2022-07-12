@@ -13,5 +13,5 @@
   <br/>
 
 ---
-<h3>Segue link: </h3>
+<h4>Segue link:</h4>
 <a><strong>https://brunocarioca021.github.io/instagram-dio/</strong></a>
